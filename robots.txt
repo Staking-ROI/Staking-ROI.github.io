@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /staking-roi/
+Sitemap: Staking-ROI.github.io/sitemap.xml
